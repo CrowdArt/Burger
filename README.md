@@ -15,7 +15,6 @@ This new design has elements that have been the result of research regarding ink
 
 ## Table of Contents
 
-
 * [Demo](#demo)
 * [Quick Start](#quick-start)
 * [Documentation](#documentation)
